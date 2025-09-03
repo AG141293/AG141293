@@ -7,7 +7,7 @@ I’m passionate about turning **data into insights** and building intelligent s
 ---
 
 ## 🔹 About Me  
-- 🎓 Background in **Electronics & Telecommunication Engineering (ENTC)**  
+- 🎓 Background in **Artificial Intelligence And Machine Learning**  
 - 💻 Skilled in **Python, Machine Learning, Deep Learning, NLP, Data Visualization**  
 - 🤖 Currently exploring **LLMs, Transformers, and AI-driven solutions**  
 - 📊 Love working on **real-world case studies** (Walmart, Ola, LoanTap, Delhivery, Netflix, etc.)  
