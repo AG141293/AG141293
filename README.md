@@ -37,7 +37,9 @@ I’m passionate about turning **data into insights** and building intelligent s
 🔹 [Driver Attrition Prediction (Ola)](#) – Retention strategy with ML 🚖  
 🔹 [Credit Risk Modeling (LoanTap)](#) – Predicting loan approvals 💳  
 🔹 [Netflix Insights](#) – What content to produce next 🎬  
-🔹 [Target Brazil Analysis](#) – E-commerce data insights 📊  
+🔹 [Target Brazil Analysis](#) – E-commerce data insights 📊
+🔹 Blog Authorship Stylometry – Predicting blogger demographics (Zodiac Sign) using NLP stylometry (TF-IDF, LogReg) ✍️
+
 
 *(More projects in repos ⬆️)*  
 
