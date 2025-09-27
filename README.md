@@ -33,13 +33,12 @@ I’m passionate about turning **data into insights** and building intelligent s
 ---
 
 ## 📌 Featured Projects  
-🔹 [Multiclass Image Classifier](#) – Onions, Potatoes & Tomatoes 🍅🥔🧅  
-🔹 [Driver Attrition Prediction (Ola)](#) – Retention strategy with ML 🚖  
-🔹 [Credit Risk Modeling (LoanTap)](#) – Predicting loan approvals 💳  
-🔹 [Netflix Insights](#) – What content to produce next 🎬  
-🔹 [Target Brazil Analysis](#) – E-commerce data insights 📊
 🔹 Blog Authorship Stylometry – Predicting blogger demographics (Zodiac Sign) using NLP stylometry (TF-IDF, LogReg) ✍️
-
+🔹 Multiclass Image Classifier – Onions, Potatoes & Tomatoes 🍅🥔🧅
+🔹 Driver Attrition Prediction (Ola) – Retention strategy with ML 🚖
+🔹 Credit Risk Modeling (LoanTap) – Predicting loan approvals 💳
+🔹 Netflix Insights – What content to produce next 🎬
+🔹 Target Brazil Analysis – E-commerce data insights 📊
 
 *(More projects in repos ⬆️)*  
 
