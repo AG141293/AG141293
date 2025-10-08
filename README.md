@@ -1,6 +1,7 @@
 ##  Hi there 👋 I'm Ankita Ghosh  
 
-🚀 **Data Science & AI Enthusiast | LLM & NLP Explorer | Problem Solver**  
+🚀 Data Science & AI Enthusiast | LLM & NLP Explorer | Problem Solver
+ 
 
 I’m passionate about turning **data into insights** and building intelligent solutions with **Machine Learning, Deep Learning, and Natural Language Processing (NLP)**. Currently, I’m diving deeper into **LLMs, Transformers, and Generative AI** while applying advanced analytics to real-world business problems.  
 
@@ -14,6 +15,12 @@ I’m passionate about turning **data into insights** and building intelligent s
 - 🌱 Always learning, always curious!  
 
 ---
+## 💼 Experience
+**Machine Learning Intern — Makers Lab (Tech Mahindra)**  
+*Project Indus* — Building India’s own Large Language Model (LLM) from the ground up.  
+- Working on data collection, cleaning, and curation for Indian dialects  
+- Ownership of dialect processing and annotation tasks  
+- Passionate about NLP, data processing, and Indian language technologies  
 
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
