@@ -20,7 +20,9 @@ I’m passionate about turning **data into insights** and building intelligent s
 *Project Indus* — Building India’s own Large Language Model (LLM) from the ground up.  
 - Working on data collection, cleaning, and curation for Indian dialects  
 - Ownership of dialect processing and annotation tasks  
-- Passionate about NLP, data processing, and Indian language technologies  
+- Passionate about NLP, data processing, and Indian language technologies
+- Implemented speech-to-text transcription workflows using Whisper AI and SpeechRecognition for multilingual audio datasets.
+- Evaluated and benchmarked transcription accuracy using Jiwer metrics (Word Error Rate, Match Error Rate, and Sentence Error Rate). 
 
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
