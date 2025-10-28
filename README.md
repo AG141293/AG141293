@@ -21,8 +21,9 @@ I’m passionate about turning **data into insights** and building intelligent s
 - Working on data collection, cleaning, and curation for Indian dialects  
 - Ownership of dialect processing and annotation tasks  
 - Passionate about NLP, data processing, and Indian language technologies
-- Implemented speech-to-text transcription workflows using Whisper AI and SpeechRecognition for multilingual audio datasets.
-- Evaluated and benchmarked transcription accuracy using Jiwer metrics (Word Error Rate, Match Error Rate, and Sentence Error Rate). 
+- Implemented automatic speech recognition (ASR) using speech_recognition to convert multilingual audio to text.
+- Evaluated transcription accuracy using Word Error Rate (WER) with the jiwer library.
+- Integrated real-time language translation with deep_translator (GoogleTranslator API) for multilingual speech processing. 
 
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
