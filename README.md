@@ -1,95 +1,114 @@
 🌟 Hi, I'm Ankita Ghosh
 🚀 Data Science & AI Enthusiast | LLM & NLP Explorer | GenAI Developer
-<p align="left"> <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-blue" /> <img src="https://img.shields.io/badge/Generative%20AI-Developer-purple" /> <img src="https://img.shields.io/badge/NLP-Language%20Models-orange" /> <img src="https://img.shields.io/badge/Status-Always%20Learning-brightgreen" /> </p>
 🔹 About Me
 
-I’m a passionate AI & Machine Learning developer who loves building intelligent systems—from data pipelines to GenAI-powered applications.
-My work focuses on LLMs, NLP, GenAI pipelines, document understanding, QnA systems, and end-to-end ML workflows.
+I’m a passionate AI & Machine Learning developer who loves building intelligent, end-to-end AI systems.
+My strengths lie in LLMs, NLP, GenAI pipelines, document intelligence, and QnA automation.
 
-I enjoy solving real-world industry problems, experimenting with AI models, and transforming raw data into useful insights.
+Strong understanding of ML, NLP, Deep Learning & GenAI
 
-✨ Curiosity-driven. Learning every day. Improving every project.
+Experience in building LLM-based utilities & automation workflows
+
+Skilled in pipeline design, document processing, and real-world dataset handling
+
+Curious, fast learner, and always excited to solve problems
 
 💼 Experience
 Machine Learning Intern — Makers Lab (Tech Mahindra)
 
-Project INDUS — Building India’s Own Large Language Model (LLM)
+Project INDUS — India’s own Large Language Model (LLM)
 
-Curating & processing multilingual Indian dialect datasets
+Curated and processed Indian dialect datasets
 
-Created pipelines for dialect processing, annotation & data cleaning
+Built pipelines for dialect processing, annotation, and data cleaning
 
-Built ASR pipelines using speech_recognition
+Implemented ASR (speech-to-text) pipelines using speech_recognition
 
-Calculated WER (Word Error Rate) using jiwer
+Calculated transcription accuracy using WER (Word Error Rate) via jiwer
 
-Added real-time multilingual translation using deep_translator
+Integrated real-time multilingual translation using deep_translator
 
-Strong focus on Indian language technologies, speech-to-text, and NLP
+Worked on NLP, ASR, and language technologies for Indian languages
 
 🧠 GenAI & AI Engineering Projects
 🔹 Q&A Generation using LLM Pipelines
 
-Designed robust end-to-end QnA generation pipelines using Gemini Flash 2.5:
+Created robust end-to-end QnA generation pipelines powered by Gemini Flash 2.5:
 
-Pipeline for text → chunking → question generation → answer extraction → validation
+Pipeline: Text → Chunking → Question Generation → Answer Extraction → Validation
 
-Used structured prompt engineering templates
+Applied structured prompt engineering for consistency
 
-Automatic generation of:
+Auto-generated:
 
 MCQs
 
-Short/long answer questions
+Short & long answers
 
-Context-based interview questions
+Interview-style questions
 
-Implemented semantic similarity scoring for quality checks
+Added semantic similarity scoring to validate quality
 
-Error-handled, reusable, production-friendly LLM workflow
+Designed a modular, reusable GenAI workflow
 
 🔹 File Conversion & Automation Pipelines
 
-Built automated pipelines for:
+Developed automated pipelines for file handling:
 
 PDF → Text / JSON
 
-OCR-based Image → Text extraction
+Image → Text (OCR using EasyOCR)
 
 CSV ↔ Excel conversions
 
-Clean text extraction + formatting
+Clean text extraction + format fixing
 
-GenAI-based understanding of converted files
+Used GenAI for intelligent document understanding
 
-Modular, reusable Python functions for each step
+Built reusable, plug-and-play Python functions
 
 🔹 Documentation Reading & Summarization Pipelines
 
-Created advanced AI-powered document comprehension pipelines:
+Built advanced document intelligence pipelines:
 
-Document → chunking → summary → explanation → keywords
+Document → Chunking → Summary → Explanation → Keywords
 
-Used Gemini Flash 2.5 for fast inference
+Section-wise summaries using Gemini Flash 2.5
 
-Section-wise breakdown summaries
+Semantic search to fetch relevant content
 
-Embedded semantic search for relevant section retrieval
+Extracted:
 
-Key insights, glossary extraction & action items generation
+Key insights
+
+Glossary
+
+Highlights
+
+Action items
 
 🛠️ Tech Stack
 Languages
 
-🐍 Python • SQL
+Python
 
-Libraries & Frameworks
+SQL
 
-TensorFlow, PyTorch
+Frameworks & Libraries
 
-Pandas, NumPy, Scikit-learn
+TensorFlow
 
-EasyOCR, jiwer, deep_translator
+PyTorch
+
+Pandas, NumPy
+
+Scikit-learn
+
+EasyOCR
+
+jiwer
+
+deep_translator
 
 GenAI / LLM
 
@@ -99,7 +118,7 @@ Prompt Engineering
 
 LLM Pipelines
 
-GenAI Applications
+GenAI Application Development
 
 Tools
 
@@ -107,23 +126,24 @@ GitHub
 
 VS Code
 
+Colab
+
 Jupyter Notebook
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293
-&layout=compact&theme=tokyonight" height="180px"/> </p>
+![Ankita’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=tokyonight)
 
+🚀 What I'm Working On
 
-🚀 What I'm Working On Now
+Building LLM-based QnA, summarization & PDF chatbot tools
 
-Building modular, production-ready LLM utilities
+Enhancing multilingual ASR + translation pipelines
 
-Improving multilingual ASR + translation pipelines
+Developing GenAI-powered automation utilities
 
-Creating reusable GenAI micro-services
-
-Experimenting with low-cost LLM fine-tuning & RAG
+Exploring low-cost LLM fine-tuning & RAG
 
 🎯 What I’m Looking For
 
@@ -131,7 +151,8 @@ ML/AI Developer roles
 
 NLP / GenAI Engineer positions
 
-Research or industry projects involving LLMs
+Research-oriented LLM/NLP projects
 
 🌐 Let’s Connect
-<p align="left"> <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-green?style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a> </p>
+www.linkedin.com/in/ank1412 
+
