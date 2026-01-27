@@ -1,147 +1,273 @@
-👋 **Hi there, I’m Ankita Ghosh**
+👋 Hi, I’m Ankita Ghosh
 
-🚀 **Data Science & AI Enthusiast | LLM & NLP Explorer | GenAI Engineer | Problem Solver**
+🚀 Data Science & AI Engineer | LLM, VLM & NLP Practitioner | GenAI Pipeline Builder
 
-I’m passionate about transforming data into actionable insights and building intelligent, scalable AI solutions using **Machine Learning, Deep Learning, NLP, and Generative AI**. I actively explore **Large Language Models (LLMs), Transformers, and AI-driven automation** to solve real-world problems.
+I’m passionate about transforming raw, noisy data into high-quality AI-ready datasets and building scalable, production-grade AI systems using Machine Learning, NLP, Large Language Models (LLMs), Vision–Language Models (VLMs), and Generative AI.
 
----
+I actively work on end-to-end GenAI pipelines — from data cleaning and validation to synthetic data generation, evaluation, and automation — with a strong focus on real-world deployment and multilingual AI systems.
 
-## 🔹 About Me
+🔹 About Me
 
-🎓 **Background:** Artificial Intelligence & Machine Learning
-💻 **Core Skills:** Python, Machine Learning, Deep Learning, NLP, Data Visualization
-🤖 **Focus Areas:**
+🎓 Background: Artificial Intelligence & Machine Learning
+💻 Core Skills: Python, Data Cleaning, Machine Learning, Deep Learning, NLP, GenAI
+🤖 Focus Areas:
 
-* Large Language Models (LLMs)
-* Transformers
-* Prompt Engineering
-* GenAI Automation & Pipelines
+Large Language Models (LLMs)
 
-📊 **Case Studies:** Walmart, Ola, LoanTap, Delhivery, Netflix, and more
-🌱 **Motto:** *Always learning, always curious!*
+Vision–Language Models (VLMs)
 
----
+Transformers
 
-## 💼 Experience
+Prompt Engineering
 
-### **Machine Learning Intern — Makers Lab (Tech Mahindra)**
+Synthetic Data Generation (SDG)
 
-**Project:** **INDUS — India’s Own Large Language Model (LLM)**
+GenAI Automation Pipelines
 
-* Curated, cleaned, and processed **multilingual Indian dialect datasets**
-* Designed pipelines for **dialect classification, annotation, and data validation**
-* Created a **dialectal variants dataset with 10,000+ rows**
-* Performed **model accuracy verification and evaluation**
-* Worked with **NVIDIA NIM models** for dialect understanding and validation
-* Implemented **ASR (Automatic Speech Recognition)** using `speech_recognition`
-* Measured transcription accuracy using **WER (Word Error Rate)** with `jiwer`
-* Integrated **real-time multilingual translation** using `deep_translator`
-* Gained hands-on experience with **Indian language technologies, NLP, and ASR systems**
+📊 Case Studies: Walmart, Ola, LoanTap, Delhivery, Netflix, and more
+🌱 Motto: Always learning, always curious!
 
----
+💼 Experience
+Machine Learning Intern — Makers Lab, Tech Mahindra
 
-## 🧠 GenAI & AI Engineering Projects
+Project: INDUS — India’s Own Large Language Model (LLM)
 
-### 🔹 **Q&A Generation using LLM Pipelines**
+Worked on large-scale multilingual data preparation and augmentation for Indian language AI systems.
 
-Developed a complete **automated Question–Answer generation system** using **Gemini Flash 2.5**.
+🔹 Data Cleaning & Normalization (Multilingual NLP)
 
-**Pipeline:**
+Designed and implemented a robust data-cleaning pipeline for Hindi and mixed-language (Hindi + English) datasets
+
+Cleaned educational and concept-based datasets containing questions, answers, and explanations
+
+Performed:
+
+Text normalization (whitespace, line breaks, encoding issues)
+
+Removal of noisy tokens and unwanted artifacts
+
+Mixed-language handling with selective translation
+
+Mathematical symbol, unit, and number protection to avoid semantic corruption
+
+Conversion of Hindi numerals to English digits
+
+Built logic to preserve formulas, units, operators, and measurements
+
+Ensured CSV encoding safety across UTF-8, UTF-16, and legacy formats
+
+Produced clean, model-ready datasets suitable for training and evaluation of LLMs
+
+🔹 Synthetic Data Generation (10× Dataset Expansion)
+
+Built LLM-driven Synthetic Data Generation (SDG) pipelines using NVIDIA NIM (LLaMA-3.1-70B)
+
+Expanded seed datasets by 10× (from ~3K to 30K+ rows) while preserving semantic consistency
+
+Generated high-quality Hindi MCQs with:
+
+Difficulty levels (easy / medium / hard)
+
+Cognitive levels (recall, understanding, application)
+
+Concept-wise alignment
+
+Designed strict JSON-only output validation to ensure downstream usability
+
+Implemented:
+
+Retry logic & failure handling
+
+Checkpoint-based saving for long-running jobs
+
+Resume-from-failure capability
+
+Cleaned and corrected LLM output artifacts (escaping issues, LaTeX formatting, malformed JSON)
+
+🔹 Core-Concept–Driven SDG
+
+Generated synthetic questions anchored to core physics concepts
+
+Ensured concept fidelity by conditioning generation on:
+
+Concept name
+
+Reference question
+
+Educational grade constraints
+
+Maintained pedagogical correctness while increasing dataset diversity
+
+Used SDG outputs for training, evaluation, and benchmarking educational NLP models
+
+🔹 LLM, NLP & Speech Systems
+
+Curated and processed multilingual Indian dialect datasets
+
+Designed pipelines for:
+
+Dialect classification
+
+Annotation
+
+Validation
+
+Created dialectal variants datasets (10,000+ rows)
+
+Evaluated model performance and accuracy
+
+Implemented Automatic Speech Recognition (ASR) pipelines
+
+Measured transcription accuracy using Word Error Rate (WER) (jiwer)
+
+Integrated real-time multilingual translation
+
+Gained hands-on experience with Indian language AI systems
+
+🧠 GenAI, LLM & VLM Projects
+🔹 Q&A Generation using LLM Pipelines
+
+Built a fully automated Question–Answer generation system using Gemini Flash 2.5.
+
+Pipeline:
 Text → Chunking → Question Generation → Answer Extraction → Validation
 
-* Designed structured **prompt engineering templates**
-* Auto-generated multiple Q&A formats:
+Designed structured prompt templates
 
-  * MCQs
-  * Short-answer questions
-  * Long descriptive answers
-  * Interview-style questions
-* Implemented **semantic similarity scoring** for output quality validation
-* Built a **modular, reusable, production-ready GenAI workflow**
+Generated:
 
----
+MCQs
 
-### 🔹 **File Conversion & Automation Pipelines**
+Short-answer questions
 
-Built automated pipelines for **document and data processing**:
+Long descriptive answers
 
-* PDF → Text / JSON extraction
-* Image → Text (OCR) using **EasyOCR**
-* CSV ↔ Excel conversions
-* Automated **text cleaning and formatting**
-* Applied **GenAI-based document understanding**
-* Developed **plug-and-play Python utilities** for reusability
+Interview-style questions
 
----
+Implemented semantic similarity scoring for output validation
 
-### 🔹 **Documentation Reading & Summarization Pipelines**
+Built modular, reusable, production-ready pipelines
 
-Created intelligent document-processing workflows using LLMs:
+🔹 Vision–Language Model (VLM) Pipelines
 
-**Pipeline:**
+Worked on Vision + Text AI workflows combining OCR, document understanding, and LLMs.
+
+Extracted text from images and scanned PDFs using OCR
+
+Processed visual documents into structured, machine-readable formats
+
+Combined visual context + textual understanding for:
+
+Document comprehension
+
+Information extraction
+
+Downstream Q&A generation
+
+Integrated VLM outputs into end-to-end GenAI pipelines
+
+🔹 File Conversion & AI Automation Pipelines
+
+Developed reusable automation utilities for:
+
+PDF → Text / JSON
+
+Image → Text (OCR)
+
+CSV ↔ Excel
+
+Text cleaning & normalization
+
+GenAI-based document understanding
+
+🔹 Document Reading & Summarization Pipelines
+
+Built intelligent document workflows:
+
+Pipeline:
 Document → Chunking → Summary → Explanation → Keywords
 
-* Section-wise summarization using **Gemini Flash 2.5**
-* Implemented **semantic search** for context-aware retrieval
-* Automatically extracted:
+Section-wise summarization using LLMs
 
-  * Key insights
-  * Highlights
-  * Glossaries
-  * Action points
+Semantic search for context-aware retrieval
 
----
+Automatic extraction of:
 
-## 🌐 Frontend + AI Integration (HTML-Based UI)
+Key insights
 
-Designed and integrated **frontend interfaces using HTML** for AI pipelines:
+Highlights
 
-* **OCR Section:** Extracts text from images and PDFs
-* **Data Cleaning Section:** Cleans, normalizes, and formats extracted data
-* **Q&A Generation Section:** Generates question–answer pairs from documents
-* **Web Scraping Section:** Extracts structured data from websites
-* **Document Conversion Section:** Converts files between multiple formats
+Glossaries
 
-These interfaces enable **end-to-end AI workflows** with user-friendly interaction.
+Action points
 
----
+🌐 Frontend + AI Integration (HTML-Based UI)
 
-## 🛠️ Tech Stack
+Designed HTML-based interfaces for AI workflows:
 
-### **Languages**
+OCR & document ingestion
 
-* Python
-* SQL
+Data cleaning & normalization
 
-### **Frameworks & Libraries**
+Q&A generation
 
-* TensorFlow
-* PyTorch
-* Pandas
-* NumPy
-* Scikit-learn
-* EasyOCR
-* jiwer
-* deep_translator
+Web scraping
 
-### **GenAI / LLM**
+File conversion
 
-* Gemini Flash 2.5
-* NVIDIA NIM
-* Prompt Engineering
-* LLM Pipelines
-* GenAI Application Development
+Enabled end-to-end AI pipelines with user-friendly interaction.
 
-### **Tools**
+🛠️ Tech Stack
+Languages
 
-* GitHub
-* VS Code
-* Google Colab
-* Jupyter Notebook
+Python
 
----
+SQL
 
-📎 **Connect with me:**
-🔗 [www.linkedin.com/in/ank1412](http://www.linkedin.com/in/ank1412)
+Frameworks & Libraries
 
+TensorFlow
+
+PyTorch
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+EasyOCR
+
+jiwer
+
+deep_translator
+
+indic-nlp-library
+
+GenAI / LLM / VLM
+
+Gemini Flash 2.5
+
+NVIDIA NIM
+
+LLaMA-3.1
+
+Prompt Engineering
+
+LLM & VLM Pipelines
+
+Synthetic Data Generation
+
+Tools
+
+GitHub
+
+VS Code
+
+Google Colab
+
+Jupyter Notebook
+
+📎 Connect with me
+🔗 www.linkedin.com/in/ank1412
 
