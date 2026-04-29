@@ -167,9 +167,19 @@ Also working on projects involving:
 
 # 🤝 Let's Connect
 
-* LinkedIn: Add your LinkedIn link
-* GitHub: [https://github.com/AG141293](https://github.com/AG141293)
-* Email: ghoshankita1412@gmail.com
+📬 Reach Me At
+🔗 LinkedIn: www.linkedin.com/in/ank1412
+💻 GitHub: github.com/AG141293
+📧 Email: ghoshankita1412@gmail.com
+
+📈 GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AG141293)
 
 ---
 
