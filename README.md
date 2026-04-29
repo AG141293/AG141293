@@ -1,267 +1,224 @@
-Ankita Ghosh
+# Hi, I'm Ankita Ghosh 👋
 
-🚀 Data Science & AI Engineer | LLM · VLM · NLP Practitioner | GenAI Pipeline Builder
+### AI/ML Engineer | Generative AI Enthusiast | Data & NLP Practitioner
 
-I specialize in transforming raw, noisy, multilingual data into high-quality, AI-ready datasets and building scalable, production-grade GenAI systems. My work spans Machine Learning, NLP, Large Language Models (LLMs), Vision–Language Models (VLMs), and Generative AI, with a strong focus on real-world deployment and multilingual AI for Indian languages.
+## 🚀 About Me
 
-I actively build end-to-end GenAI pipelines — from data cleaning, validation, and augmentation to synthetic data generation, evaluation, and automation — ensuring robustness, correctness, and downstream usability.
+I am an AI/ML enthusiast with hands-on experience in **Machine Learning, Generative AI, NLP, OCR, Speech Processing, and Data Engineering concepts**. I enjoy building practical AI solutions and experimenting with LLM-powered applications.
 
-🌱 Always learning, always curious.
+* 🎓 MSc in Artificial Intelligence & Machine Learning
+* 💼 Former Intern at **Tech Mahindra Makers Lab**
+* 🤖 Current **AI Intern at Codec Technologies**
+* 🌱 Exploring GenAI, LLM Applications, RAG, NLP and Data Engineering
+* 📌 Open to opportunities in AI/ML, Data Science, GenAI, NLP and Data Engineering roles
 
-🎓 Background
+---
 
-Artificial Intelligence & Machine Learning
+# 💼 Experience
 
-💡 Core Skills
+## AI Intern — Codec Technologies *(Current)*
 
-Programming: Python, SQL
+Working on practical AI/ML and Generative AI projects involving:
 
-Data: Data Cleaning, Normalization, Validation
+* Machine Learning model development
+* NLP and Generative AI concepts
+* Prompt engineering and LLM experimentation
+* Python-based AI application development
+* Hands-on exposure to real-world AI workflows
 
-ML & DL: Machine Learning, Deep Learning
+---
 
-NLP & GenAI: LLMs, VLMs, Transformers, Prompt Engineering
+## Intern — Tech Mahindra Makers Lab
 
-Pipelines: GenAI Automation, SDG Pipelines, Evaluation Frameworks
+Worked on innovation-driven AI projects and research-oriented solutions.
 
-🔍 Focus Areas
+### Key Contributions
 
-Large Language Models (LLMs)
+* Worked on **Indus Project** and contributed to AI/ML initiatives
+* Built and experimented with **Generative AI and Machine Learning models**
+* Worked on **LLM concepts, prompt engineering and NLP tasks**
+* Explored **data preprocessing, model experimentation and evaluation**
+* Exposure to research-driven prototyping and innovation workflows
+* Collaborated in practical enterprise AI use cases
 
-Vision–Language Models (VLMs)
+### Skills Gained
 
-Transformers & Prompt Engineering
+* Python for AI/ML
+* Generative AI
+* NLP
+* Machine Learning
+* Data Processing
+* Experimentation and Prototyping
 
-Synthetic Data Generation (SDG)
+---
 
-Multilingual & Indic Language AI
+# 🛠 Tech Stack
 
-Production-Ready GenAI Pipelines
+### Languages
 
-💼 Experience
-Machine Learning Intern — Makers Lab, Tech Mahindra
+Python | SQL | Pandas | NumPy
 
-Project: INDUS — India’s Own Large Language Model
+### AI / ML
 
-Worked on large-scale multilingual data preparation and augmentation for Indian language AI systems, contributing to dataset quality, robustness, and model readiness.
+Machine Learning | Deep Learning | NLP | Generative AI | LLM Applications
 
-🧹 Data Cleaning & Normalization (Multilingual NLP)
+### Tools & Platforms
 
-Designed and implemented a robust multilingual data-cleaning pipeline for Hindi and mixed-language (Hindi + English) datasets, primarily educational and concept-based (Q&A, explanations).
+Git | GitHub | Jupyter | Google Colab | VS Code
 
-Key Contributions:
+### Concepts
 
-Text normalization (whitespace, line breaks, encoding issues)
+Prompt Engineering | OCR | Speech Processing | Data Analysis | Model Evaluation
 
-Removal of noisy tokens and unwanted artifacts
+---
 
-Mixed-language handling with selective translation
+# 📂 Featured Projects
 
-Protection of mathematical symbols, formulas, units, and operators
+## 1. Audio to Text Translator
 
-Conversion of Hindi numerals to English digits
+**Repository:** `audio-to-text-translator`
 
-Logic to preserve measurements and semantic correctness
+Speech-to-text transcription project that converts audio into text and translates English transcription into Hindi.
 
-Ensured CSV encoding safety (UTF-8, UTF-16, legacy formats)
+### Features
 
-📌 Result: Produced clean, model-ready datasets suitable for LLM training and evaluation.
+* Speech Recognition
+* English to Hindi Translation
+* Text File Export
+* Audio Processing Pipeline
 
-🧪 Synthetic Data Generation (10× Dataset Expansion)
+**Tech:** Python, SpeechRecognition, Deep Translator
 
-Built LLM-driven SDG pipelines using NVIDIA NIM (LLaMA-3.1-70B).
+---
 
-Highlights:
+## 2. PDF OCR Text Extractor
 
-Expanded datasets 10× (≈3K → 30K+ rows)
+**Repository:** `pdf-ocr-text-extractor`
 
-Generated high-quality Hindi MCQs with:
+OCR-based system for extracting text from scanned PDF documents with Hindi and English language support.
 
-Difficulty levels (Easy / Medium / Hard)
+### Features
 
-Cognitive levels (Recall / Understanding / Application)
+* Scanned PDF to Text Extraction
+* Hindi + English OCR
+* Multi-page Processing
+* Text Output Generation
 
-Concept-wise alignment
+**Tech:** Python, Tesseract OCR, PyTesseract, pdf2image
 
-Designed strict JSON-only output validation
+---
 
-Implemented:
+## 3. Gemini QnA Generator
 
-Retry logic & failure handling
+**Repository:** `gemini-qna-generator`
 
-Checkpoint-based saving
+Generative AI project using Gemini API for automated question-answer generation.
 
-Resume-from-failure capability
+### Features
 
-Cleaned malformed LLM outputs (escaping, LaTeX, broken JSON)
+* LLM-powered Q&A Generation
+* Prompt Engineering
+* Content Automation
+* Gemini API Integration
 
-🧠 Core-Concept–Driven SDG
+**Tech:** Python, Gemini API, Generative AI
 
-Generated synthetic questions anchored to core physics concepts, ensuring pedagogical correctness.
+---
 
-Conditioned generation on:
+## 4. Parquet to CSV Converter
 
-Concept name
+**Repository:** `parquet-to-csv-converter`
 
-Reference question
+Utility to convert Parquet files into CSV format for analytics and preprocessing.
 
-Educational grade constraints
+### Features
 
-📌 Used SDG outputs for training, evaluation, and benchmarking educational NLP models.
+* Parquet Reading
+* CSV Conversion
+* Data Processing Workflow
 
-🗣️ LLM, NLP & Speech Systems
+**Tech:** Python, Pandas
 
-Curated multilingual Indian dialect datasets
+---
 
-Built pipelines for:
+## 5. Additional AI/ML Projects
 
-Dialect classification
+Also working on projects involving:
 
-Annotation & validation
+* OCR and Document AI
+* NLP Applications
+* LLM Experiments
+* Machine Learning Models
+* Data Processing Projects
 
-Created 10,000+ dialectal variants
+---
 
-Evaluated performance using accuracy metrics
+# 📌 Suggested Repository Structure
 
-Implemented ASR pipelines
+For each repo include:
 
-Measured transcription accuracy using Word Error Rate (WER) (jiwer)
+* README.md
+* requirements.txt
+* Sample input/output
+* Screenshots (if applicable)
+* Architecture / Workflow diagram
+* Setup Instructions
 
-Integrated real-time multilingual translation
+---
 
-🧠 GenAI, LLM & VLM Projects
-🔹 Automated Q&A Generation (LLM Pipelines)
+# 🌟 What I'm Currently Learning
 
-Built an end-to-end Q&A generation system using Gemini Flash 2.5.
+* Retrieval Augmented Generation (RAG)
+* LLM Applications
+* Data Engineering Tools
+* Vector Databases
+* FastAPI for AI Apps
+* Cloud concepts (AWS / Azure basics)
 
-Pipeline:
-Text → Chunking → Question Generation → Answer Extraction → Validation
+---
 
-Generated:
+# 📈 GitHub Stats
 
-MCQs
+Add these in profile README:
 
-Short-answer questions
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true)
 
-Long descriptive answers
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact)
+```
 
-Interview-style questions
+---
 
-Implemented semantic similarity scoring and designed modular, reusable, production-ready pipelines.
+# 🤝 Let's Connect
 
-🔹 Vision–Language Model (VLM) Pipelines
+* LinkedIn: Add your LinkedIn link
+* GitHub: [https://github.com/AG141293](https://github.com/AG141293)
+* Email: ghoshankita1412@gmail.com
 
-Worked on Vision + Text AI workflows combining OCR, document understanding, and LLMs.
+---
 
-Capabilities:
+## 🔍 Areas I'm Open To
 
-OCR from images & scanned PDFs
+* AI/ML Engineer
+* Data Analyst / Data Scientist
+* NLP Engineer
+* GenAI / LLM Roles
+* Data Engineer (Entry-Level)
 
-Structured extraction from visual documents
+---
 
-Combined visual + textual context for:
+## Suggested Pinned Repositories (Pin these on GitHub)
 
-Document comprehension
+Pin these on your profile:
 
-Information extraction
+1. audio-to-text-translator
+2. pdf-ocr-text-extractor
+3. gemini-qna-generator
+4. parquet-to-csv-converter
+5. Best ML/GenAI internship project
+6. One strong end-to-end AI project
 
-Downstream Q&A generation
+---
 
-🔹 Document Reading & Summarization Pipelines
 
-Built intelligent document workflows:
-
-Pipeline:
-Document → Chunking → Summary → Explanation → Keywords
-
-Section-wise summarization
-
-Semantic search for context-aware retrieval
-
-Automatic extraction of:
-
-Key insights
-
-Highlights
-
-Glossaries
-
-Action points
-
-🔹 File Conversion & AI Automation
-
-Developed reusable utilities for:
-
-PDF → Text / JSON
-
-Image → Text (OCR)
-
-CSV ↔ Excel
-
-Text cleaning & normalization
-
-GenAI-based document understanding
-
-🌐 Frontend + AI Integration
-
-Designed HTML-based UIs for:
-
-OCR & document ingestion
-
-Data cleaning & normalization
-
-Q&A generation
-
-Web scraping
-
-File conversion
-
-Enabled end-to-end AI workflows with user-friendly interaction.
-
-🛠️ Tech Stack
-Languages
-
-Python, SQL
-
-Frameworks & Libraries
-
-TensorFlow, PyTorch
-
-Pandas, NumPy, Scikit-learn
-
-EasyOCR, jiwer
-
-deep_translator, indic-nlp-library
-
-GenAI / LLM / VLM
-
-Gemini Flash 2.5
-
-NVIDIA NIM
-
-LLaMA-3.1
-
-Prompt Engineering
-
-LLM & VLM Pipelines
-
-Synthetic Data Generation
-
-Tools
-
-GitHub
-
-VS Code
-
-Google Colab
-
-Jupyter Notebook
-
-📊 Case Studies
-
-Walmart · Ola · LoanTap · Delhivery · Netflix · and more
-
-📎 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/ank1412
-
+⭐ Featured Focus: Generative AI | NLP | Machine Learning | Data Projects
