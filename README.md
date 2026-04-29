@@ -1,6 +1,6 @@
 # Hi, I'm Ankita Ghosh 👋
 
-### AI/ML Engineer | Generative AI Enthusiast | Data & NLP Practitioner
+### MSc AI&ML | Ex-Tech Mahindra Makers Lab Intern | AI Intern @ Codec Technologies | GenAI & NLP Enthusiast
 
 ## 🚀 About Me
 
