@@ -16,7 +16,7 @@ I am an AI/ML enthusiast with hands-on experience in **Machine Learning, Generat
 
 # 💼 Experience
 
-## AI Intern — Codec Technologies *(Current)*
+## AI Intern — Codec Technologies *(April 2026-present)*
 
 Working on practical AI/ML and Generative AI projects involving:
 
@@ -28,7 +28,7 @@ Working on practical AI/ML and Generative AI projects involving:
 
 ---
 
-## Intern — Tech Mahindra Makers Lab
+## Ex-Intern — Tech Mahindra Makers Lab (19th Aug, 2025-  11th Feb ,2026)
 
 Worked on innovation-driven AI projects and research-oriented solutions.
 
@@ -153,18 +153,6 @@ Also working on projects involving:
 
 ---
 
-# 📌 Suggested Repository Structure
-
-For each repo include:
-
-* README.md
-* requirements.txt
-* Sample input/output
-* Screenshots (if applicable)
-* Architecture / Workflow diagram
-* Setup Instructions
-
----
 
 # 🌟 What I'm Currently Learning
 
@@ -174,18 +162,6 @@ For each repo include:
 * Vector Databases
 * FastAPI for AI Apps
 * Cloud concepts (AWS / Azure basics)
-
----
-
-# 📈 GitHub Stats
-
-Add these in profile README:
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact)
-```
 
 ---
 
