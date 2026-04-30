@@ -175,11 +175,13 @@ Also working on projects involving:
 📈 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true)
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact)
+![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AG141293)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AG141293&theme=radical)
 
 ---
 
