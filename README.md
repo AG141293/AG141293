@@ -185,7 +185,7 @@ Also working on projects involving:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AG141293&theme=radical)
-
+![Stars](https://img.shields.io/badge/Stars-21-yellow?style=for-the-badge&logo=github)
 ---
 
 ## 📝 Open Source Contributions
