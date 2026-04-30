@@ -189,19 +189,27 @@ Also working on projects involving:
 
 ### 📌 Cognee (Knowledge Graph AI Project)
 - 🔗 Issue Raised: https://github.com/topoteretes/cognee/issues/2738  
-- 🔄 Pull Request Attempted: Added beginner-friendly documentation example  
-- 💡 Contribution: Worked on improving onboarding by proposing and implementing a beginner-level example  
+- 🔄 Pull Request: Improved documentation with a concrete beginner-friendly example (code + output + explanation)  
+- 💡 Contribution: Enhanced onboarding experience by converting abstract documentation into a practical, runnable example  
 
 ---
 
 ## 🚀 Contribution Highlights
 
 - Initiated open-source contribution in AI/ML domain  
-- Raised a valid documentation improvement issue  
-- Created a Pull Request and incorporated review feedback  
-- Gained hands-on experience with GitHub workflow (Fork → Branch → PR → Review cycle)  
-- Improved understanding of real-world collaborative development  
+- Identified and reported a real documentation gap  
+- Implemented a structured solution based on maintainer and AI review feedback  
+- Improved documentation quality with real-world example (input → processing → output)  
+- Gained hands-on experience with GitHub collaboration workflow (Fork → Branch → PR → Review → Iteration)  
+- Learned to incorporate code review feedback and refine contributions  
 
+---
+
+## ⭐ GitHub Growth
+
+- 🌟 Earned **15+ stars** across repositories  
+- 📈 Actively building and sharing AI/ML and Generative AI projects  
+- 🤝 Engaging in open-source collaboration and contributions  
 ---
 
 ## 🎯 Next Goals
