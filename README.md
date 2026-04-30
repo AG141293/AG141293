@@ -1,5 +1,6 @@
-# Hi, I'm Ankita Ghosh 👋
+# 👋 Hi! I'm Ankita Ghosh
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Python+Developer;Machine+Learning+Explorer;Building+Cool+Projects+🚀)](https://git.io/typing-svg)
 ### MSc AI&ML | Ex-Tech Mahindra Makers Lab Intern | AI Intern @ Codec Technologies | GenAI & NLP Enthusiast
 
 ## 🚀 About Me
