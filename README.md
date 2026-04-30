@@ -207,7 +207,7 @@ Also working on projects involving:
 
 ## ⭐ GitHub Growth
 
-- 🌟 Earned **15+ stars** across repositories  
+ 
 - 📈 Actively building and sharing AI/ML and Generative AI projects  
 - 🤝 Engaging in open-source collaboration and contributions  
 ---
