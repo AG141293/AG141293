@@ -185,6 +185,32 @@ Also working on projects involving:
 
 ---
 
+## 📝 Open Source Contributions
+
+### 📌 Cognee (Knowledge Graph AI Project)
+- 🔗 Issue Raised: https://github.com/topoteretes/cognee/issues/2738  
+- 🔄 Pull Request Attempted: Added beginner-friendly documentation example  
+- 💡 Contribution: Worked on improving onboarding by proposing and implementing a beginner-level example  
+
+---
+
+## 🚀 Contribution Highlights
+
+- Initiated open-source contribution in AI/ML domain  
+- Raised a valid documentation improvement issue  
+- Created a Pull Request and incorporated review feedback  
+- Gained hands-on experience with GitHub workflow (Fork → Branch → PR → Review cycle)  
+- Improved understanding of real-world collaborative development  
+
+---
+
+## 🎯 Next Goals
+
+- Submit improved PR with concrete example (code + output)  
+- Contribute to more AI/ML repositories  
+- Build stronger open-source presence  
+---
+
 ## 🔍 Areas I'm Open To
 
 * AI/ML Engineer
