@@ -1,250 +1,135 @@
-# 👋 Hi! I'm Ankita Ghosh
+# 👋 Hi, I'm Ankita Ghosh
 
-![Ankita Ghosh Banner](./ankita_ghosh_banner.png)
+![Banner](./ankita_ghosh_banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;GenAI+%26+NLP+Enthusiast;Building+LLM+Apps+%F0%9F%9A%80;Open+to+Opportunities!)](https://git.io/typing-svg)
-### MSc AI&ML | Ex-Tech Mahindra Makers Lab Intern | AI Intern @ Codec Technologies | GenAI & NLP Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;GenAI+%26+NLP+Enthusiast;Building+LLM+Apps+🚀;Open+to+Opportunities!" />
+</p>
+
+---
 
 ## 🚀 About Me
 
-I am an AI/ML enthusiast with hands-on experience in **Machine Learning, Generative AI, NLP, OCR, Speech Processing, and Data Engineering concepts**. I enjoy building practical AI solutions and experimenting with LLM-powered applications.
+🎓 MSc in Artificial Intelligence & Machine Learning
+💼 Ex-Intern @ Tech Mahindra Makers Lab
+🤖 AI Intern @ Codec Technologies
 
-* 🎓 MSc in Artificial Intelligence & Machine Learning
-* 💼 Former Intern at **Tech Mahindra Makers Lab**
-* 🤖 Current **AI Intern at Codec Technologies**
-* 🌱 Exploring GenAI, LLM Applications, RAG, NLP and Data Engineering
-* 📌 Open to opportunities in AI/ML, Data Science, GenAI, NLP and Data Engineering roles
+I build **real-world AI solutions** using:
 
----
-
-# 💼 Experience
-
-## AI Intern — Codec Technologies *(April 2026-present)*
-
-Working on practical AI/ML and Generative AI projects involving:
-
-* Machine Learning model development
-* NLP and Generative AI concepts
-* Prompt engineering and LLM experimentation
-* Python-based AI application development
-* Hands-on exposure to real-world AI workflows
-
----
-
-## Ex-Intern — Tech Mahindra Makers Lab (19th Aug, 2025-  11th Feb ,2026)
-
-Worked on innovation-driven AI projects and research-oriented solutions.
-
-### Key Contributions
-
-* Worked on **Indus Project** and contributed to AI/ML initiatives
-* Built and experimented with **Generative AI and Machine Learning models**
-* Worked on **LLM concepts, prompt engineering and NLP tasks**
-* Explored **data preprocessing, model experimentation and evaluation**
-* Exposure to research-driven prototyping and innovation workflows
-* Collaborated in practical enterprise AI use cases
-
-### Skills Gained
-
-* Python for AI/ML
-* Generative AI
-* NLP
 * Machine Learning
-* Data Processing
-* Experimentation and Prototyping
+* Generative AI (LLMs)
+* NLP & Speech Processing
+* OCR & Document AI
+
+💡 Currently focused on **LLM Applications, RAG, and scalable AI systems**
 
 ---
 
-# 🛠 Tech Stack
+## 💼 Experience
 
-### Languages
+### 🧠 AI Intern — Codec Technologies *(Apr 2026 – Present)*
 
-Python | SQL | Pandas | NumPy
+* Building ML & GenAI applications
+* Working on NLP & LLM workflows
+* Experimenting with prompt engineering
+* Developing Python-based AI solutions
 
-### AI / ML
+### 🔬 Ex-Intern — Tech Mahindra Makers Lab *(Aug 2025 – Feb 2026)*
 
-Machine Learning | Deep Learning | NLP | Generative AI | LLM Applications
-
-### Tools & Platforms
-
-Git | GitHub | Jupyter | Google Colab | VS Code
-
-### Concepts
-
-Prompt Engineering | OCR | Speech Processing | Data Analysis | Model Evaluation
+* Worked on **Project INDUS**
+* Built ML & Generative AI prototypes
+* Hands-on with NLP & LLM concepts
+* Research-driven AI experimentation
 
 ---
 
-# 📂 Featured Projects
+## 🛠 Tech Stack
 
-## 1. Audio to Text Translator
+**Languages:**
+Python | SQL
 
-**Repository:** `audio-to-text-translator`
+**Libraries:**
+Pandas | NumPy
 
-Speech-to-text transcription project that converts audio into text and translates English transcription into Hindi.
+**AI/ML:**
+Machine Learning | Deep Learning | NLP | Generative AI | LLMs
 
-### Features
+**Tools:**
+Git | GitHub | Jupyter | Colab | VS Code
 
-* Speech Recognition
-* English to Hindi Translation
-* Text File Export
-* Audio Processing Pipeline
-
-**Tech:** Python, SpeechRecognition, Deep Translator
-
----
-
-## 2. PDF OCR Text Extractor
-
-**Repository:** `pdf-ocr-text-extractor`
-
-OCR-based system for extracting text from scanned PDF documents with Hindi and English language support.
-
-### Features
-
-* Scanned PDF to Text Extraction
-* Hindi + English OCR
-* Multi-page Processing
-* Text Output Generation
-
-**Tech:** Python, Tesseract OCR, PyTesseract, pdf2image
+**Concepts:**
+Prompt Engineering | OCR | Speech Processing | Model Evaluation
 
 ---
 
-## 3. Gemini QnA Generator
+## 📂 Featured Projects
 
-**Repository:** `gemini-qna-generator`
+### 🎙 Audio to Text Translator
 
-Generative AI project using Gemini API for automated question-answer generation.
-
-### Features
-
-* LLM-powered Q&A Generation
-* Prompt Engineering
-* Content Automation
-* Gemini API Integration
-
-**Tech:** Python, Gemini API, Generative AI
+* Speech → Text → Hindi Translation
+* Built full audio processing pipeline
+  **Tech:** Python, SpeechRecognition
 
 ---
 
-## 4. Parquet to CSV Converter
+### 📄 PDF OCR Text Extractor
 
-**Repository:** `parquet-to-csv-converter`
-
-Utility to convert Parquet files into CSV format for analytics and preprocessing.
-
-### Features
-
-* Parquet Reading
-* CSV Conversion
-* Data Processing Workflow
-
-**Tech:** Python, Pandas
+* Extracts text from scanned PDFs
+* Hindi + English support
+  **Tech:** Tesseract OCR, PyTesseract
 
 ---
 
-## 5. Additional AI/ML Projects
+### 🤖 Gemini QnA Generator
 
-Also working on projects involving:
-
-* OCR and Document AI
-* NLP Applications
-* LLM Experiments
-* Machine Learning Models
-* Data Processing Projects
+* LLM-based Q&A generation system
+* Prompt engineering + automation
+  **Tech:** Gemini API
 
 ---
 
+### 🔄 Parquet to CSV Converter
 
-# 🌟 What I'm Currently Learning
-
-* Retrieval Augmented Generation (RAG)
-* LLM Applications
-* Data Engineering Tools
-* Vector Databases
-* FastAPI for AI Apps
-* Cloud concepts (AWS / Azure basics)
+* Data preprocessing utility
+* Converts Parquet → CSV
+  **Tech:** Pandas
 
 ---
-
-# 🤝 Let's Connect
-
-📬 Reach Me At
-🔗 LinkedIn: www.linkedin.com/in/ank1412
-💻 GitHub: github.com/AG141293
-📧 Email: ghoshankita1412@gmail.com
-
-📈 GitHub Stats
-
 
 ## 📈 GitHub Stats
 
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AG141293\&show_icons=true\&theme=radical\&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293\&layout=compact\&theme=radical\&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AG141293&theme=radical)
-
-![GitHub Stars](https://img.shields.io/github/stars/AG141293?style=for-the-badge&logo=github)
----
-
-## 📝 Open Source Contributions
-
-### 📌 Cognee (Knowledge Graph AI Project)
-- 🔗 Issue Raised: https://github.com/topoteretes/cognee/issues/2738  
-- 🔄 Pull Request: Improved documentation with a concrete beginner-friendly example (code + output + explanation)  
-- 💡 Contribution: Enhanced onboarding experience by converting abstract documentation into a practical, runnable example  
+![GitHub Streak](https://streak-stats.demolab.com?user=AG141293\&theme=radical\&cache_seconds=1800)
 
 ---
 
-## 🚀 Contribution Highlights
+## 🧠 Currently Learning
 
-- Initiated open-source contribution in AI/ML domain  
-- Identified and reported a real documentation gap  
-- Implemented a structured solution based on maintainer and AI review feedback  
-- Improved documentation quality with real-world example (input → processing → output)  
-- Gained hands-on experience with GitHub collaboration workflow (Fork → Branch → PR → Review → Iteration)  
-- Learned to incorporate code review feedback and refine contributions  
+* Retrieval-Augmented Generation (RAG)
+* Vector Databases
+* FastAPI for AI Apps
+* Cloud (AWS / Azure basics)
 
 ---
 
-## ⭐ GitHub Growth
+## 🤝 Connect With Me
 
- 
-- 📈 Actively building and sharing AI/ML and Generative AI projects  
-- 🤝 Engaging in open-source collaboration and contributions  
----
-
-## 🎯 Next Goals
-
-- Submit improved PR with concrete example (code + output)  
-- Contribute to more AI/ML repositories  
-- Build stronger open-source presence  
----
-
-## 🔍 Areas I'm Open To
-
-* AI/ML Engineer
-* Data Analyst / Data Scientist
-* NLP Engineer
-* GenAI / LLM Roles
-* Data Engineer (Entry-Level)
+🔗 LinkedIn: https://www.linkedin.com/in/ank1412
+💻 GitHub: https://github.com/AG141293
+📧 Email: [ghoshankita1412@gmail.com](mailto:ghoshankita1412@gmail.com)
 
 ---
 
-## Suggested Pinned Repositories (Pin these on GitHub)
+## 🌟 Goals for 2026
 
-Pin these on your profile:
-
-1. audio-to-text-translator
-2. pdf-ocr-text-extractor
-3. gemini-qna-generator
-4. parquet-to-csv-converter
-5. Best ML/GenAI internship project
-6. One strong end-to-end AI project
+* Contribute to top AI/ML open-source projects
+* Build production-level LLM applications
+* Strengthen system design + data engineering
+* Land a strong AI/ML role 🚀
 
 ---
 
-
-⭐ Featured Focus: Generative AI | NLP | Machine Learning | Data Projects
+⭐ *Focused on building impactful AI products, not just projects*
