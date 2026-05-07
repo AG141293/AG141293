@@ -165,13 +165,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AG141293&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://img.shields.io/badge/PRs_Merged-1-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Issues_Raised-5-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contributions-7-f472b6?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_Source-Active-00c853?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
 
 <p align="center">
