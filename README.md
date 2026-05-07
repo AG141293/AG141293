@@ -196,9 +196,9 @@
 > *All cards below pull live data from GitHub's API and auto-refresh with every push, PR, issue, and star.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=06b6d4&text_color=e2e8f0&ring_color=7c3aed" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e2e8f0&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=06b6d4&text_color=e2e8f0&ring_color=7c3aed&cache_seconds=1800" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e2e8f0&langs_count=8&cache_seconds=1800" height="180"/>
 </p>
 
 <!-- STREAK STATS — updates daily -->
@@ -295,9 +295,17 @@
 
 ### 🐍 My Contributions, Eaten Alive
 
-![Snake animation](https://github.com/AG141293/AG141293/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AG141293/AG141293/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AG141293/AG141293/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AG141293/AG141293/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
-> **To enable the snake:** Go to your repo `AG141293/AG141293` → Actions → enable the `Generate Snake` workflow. See setup instructions below ↓
+> ⚠️ **One-time setup required** — the snake appears after your first GitHub Action run:
+> 1. In repo `AG141293/AG141293` → **Settings → Actions → General** → set to **"Read and write permissions"** → Save
+> 2. Place the `snake-workflow.yml` file at `.github/workflows/snake.yml` in your repo
+> 3. Go to **Actions tab** → click **"Generate Snake"** → **Run workflow**
+> 4. Snake will then auto-regenerate every 12 hours! 🎉
 
 </div>
 
@@ -308,5 +316,3 @@
 *⭐ Building AI systems that actually work in the real world*
 
 </div>
-
-
