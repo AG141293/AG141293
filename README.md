@@ -1,90 +1,254 @@
-# 👋 Hi, I'm Ankita Ghosh
+<div align="center">
 
-![Banner](./ankita_ghosh_banner.png)
+<!-- ANIMATED SVG BANNER -->
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Deep space background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0221;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#1a0533;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0a2e;stop-opacity:1" />
+    </linearGradient>
+    <!-- Purple aurora glow -->
+    <radialGradient id="aura1" cx="25%" cy="50%" r="45%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.35" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0" />
+    </radialGradient>
+    <radialGradient id="aura2" cx="75%" cy="50%" r="40%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0.25" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0" />
+    </radialGradient>
+    <radialGradient id="aura3" cx="50%" cy="80%" r="35%">
+      <stop offset="0%" style="stop-color:#f472b6;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#f472b6;stop-opacity:0" />
+    </radialGradient>
+    <!-- Text glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowStrong">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Neural net line gradient -->
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#a78bfa;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="lineGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f472b6;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#fb7185;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0" />
+    </linearGradient>
+  </defs>
 
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bgGrad)" rx="16"/>
+  <rect width="900" height="200" fill="url(#aura1)" rx="16"/>
+  <rect width="900" height="200" fill="url(#aura2)" rx="16"/>
+  <rect width="900" height="200" fill="url(#aura3)" rx="16"/>
+
+  <!-- Animated star particles -->
+  <g opacity="0.7">
+    <circle cx="50" cy="30" r="1.2" fill="#a78bfa"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="70" r="0.8" fill="#fff"><animate attributeName="opacity" values="1;0.1;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="20" r="1.5" fill="#06b6d4"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="310" cy="155" r="1" fill="#f472b6"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="25" r="0.9" fill="#fff"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="480" cy="170" r="1.3" fill="#a78bfa"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="40" r="1.1" fill="#06b6d4"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="130" r="0.8" fill="#fff"><animate attributeName="opacity" values="1;0.3;1" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="60" r="1.4" fill="#f472b6"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="25" r="1" fill="#a78bfa"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="160" r="1.2" fill="#06b6d4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="185" r="0.9" fill="#fff"><animate attributeName="opacity" values="1;0.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="30" cy="150" r="1.1" fill="#f472b6"><animate attributeName="opacity" values="0.5;1;0.5" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="170" cy="185" r="0.7" fill="#a78bfa"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="175" r="1.3" fill="#06b6d4"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Animated neural net lines (sweeping) -->
+  <line x1="0" y1="100" x2="900" y2="100" stroke="url(#lineGrad)" stroke-width="0.5">
+    <animate attributeName="y1" values="60;140;60" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="140;60;140" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="6s" repeatCount="indefinite"/>
+  </line>
+  <line x1="0" y1="50" x2="900" y2="150" stroke="url(#lineGrad2)" stroke-width="0.4">
+    <animate attributeName="opacity" values="0;0.7;0" dur="4s" repeatCount="indefinite"/>
+  </line>
+  <line x1="0" y1="150" x2="900" y2="50" stroke="url(#lineGrad)" stroke-width="0.4">
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Orbiting brain/AI node decoration -->
+  <g transform="translate(820, 100)">
+    <circle cx="0" cy="0" r="28" fill="none" stroke="#7c3aed" stroke-width="0.8" opacity="0.5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#06b6d4" stroke-width="0.6" opacity="0.4">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="28" cy="0" r="4" fill="#a78bfa" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-18" cy="0" r="3" fill="#06b6d4" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Small orbit left -->
+  <g transform="translate(80, 100)">
+    <circle cx="0" cy="0" r="22" fill="none" stroke="#f472b6" stroke-width="0.6" opacity="0.4">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="22" cy="0" r="3.5" fill="#f472b6" filter="url(#glow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Main title: Ankita Ghosh -->
+  <text x="450" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="900" letter-spacing="4" fill="none" stroke="#a78bfa" stroke-width="0.8" filter="url(#glow)" opacity="0.6">ANKITA GHOSH</text>
+  <text x="450" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="900" letter-spacing="4" fill="url(#lineGrad)" filter="url(#glowStrong)">
+    ANKITA GHOSH
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" letter-spacing="6" fill="#06b6d4" filter="url(#glow)">
+    GenAI · RAG · LLMs · NLP · VLM
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Animated typing bar -->
+  <rect x="220" y="118" width="460" height="1.5" fill="url(#lineGrad)" rx="1">
+    <animate attributeName="width" values="0;460;460;0" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="450;220;220;450" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom tagline -->
+  <text x="450" y="150" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" letter-spacing="3" fill="#a78bfa" opacity="0.8">
+    🚀 Building Production-Ready AI Systems
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Floating data particles -->
+  <g font-family="'Courier New', monospace" font-size="9" fill="#7c3aed" opacity="0.4">
+    <text x="140" y="40">01</text>
+    <text x="750" y="155">RAG</text>
+    <text x="170" y="160">LLM</text>
+    <text x="680" y="38">NLP</text>
+    <text x="350" y="185">0x1A</text>
+  </g>
+
+  <!-- Border glow frame -->
+  <rect width="900" height="200" rx="16" fill="none" stroke="url(#lineGrad)" stroke-width="1.5" opacity="0.5"/>
+</svg>
+
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=A78BFA&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+GenAI+Engineer;RAG+%7C+LLMs+%7C+NLP+%7C+VLM;Building+Production-Ready+AI+Systems+🚀;Open+to+AI%2FML+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Machine+Learning+%26+GenAI+Engineer+%F0%9F%A4%96;RAG+Pipelines+%7C+LLMs+%7C+NLP+%7C+VLMs;Multilingual+AI+for+Indian+Languages+%F0%9F%87%AE%F0%9F%87%B3;Synthetic+Data+%C2%B7+Document+Intelligence+%C2%B7+OCR;Open+to+High-Impact+AI%2FML+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ank1412"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AG141293"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://huggingface.co/AnkGhosh"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="mailto:ghoshankita1412@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<!-- PROFILE VIEWS COUNTER — auto-increments every visit -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AG141293&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 M.Sc. in Artificial Intelligence & Machine Learning (CGPA: 9.3)
-💼 Ex-ML Intern @ Tech Mahindra Makers Lab
-🤖 GenAI & NLP Engineer
+🎓 **M.Sc. in Artificial Intelligence & Machine Learning** (CGPA: 9.3)
+💼 **Ex-ML Intern @ Tech Mahindra Makers Lab**
+🤖 **GenAI & NLP Engineer** — I build production-ready AI systems, not just models.
 
-I build **production-ready AI systems**, not just models.
+💡 **Focus Areas:**
+- RAG Systems & LLM Pipelines
+- Multilingual NLP (Indian Languages, 10,000+ dialect variations)
+- Synthetic Data Generation (10× scaling)
+- Document Intelligence & OCR
 
-💡 Focus Areas:
+---
 
-* RAG Systems & LLM Pipelines
-* Multilingual NLP (Indian Languages)
-* Synthetic Data Generation (10× scaling)
-* Document Intelligence & OCR
+## 🏆 GitHub Trophies — Live & Auto-Updating
+
+> *These update automatically as you earn new achievements — no manual refresh needed!*
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AG141293&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
+</p>
+
+---
+
+## 📊 GitHub Stats — Real-Time
+
+> *All cards below pull live data from GitHub's API and auto-refresh with every push, PR, issue, and star.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=06b6d4&text_color=e2e8f0&ring_color=7c3aed" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e2e8f0&langs_count=8" height="180"/>
+</p>
+
+<!-- STREAK STATS — updates daily -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AG141293&theme=radical&hide_border=true&background=0d0221&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=06b6d4&dates=94a3b8" height="180"/>
+</p>
+
+<!-- CONTRIBUTION GRAPH — updates on every commit -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AG141293&theme=react-dark&bg_color=0d0221&color=a78bfa&line=7c3aed&point=f472b6&hide_border=true&area=true&area_color=7c3aed" />
+</p>
 
 ---
 
 ## 🌍 Open Source Contributions
 
-* 🚀 Opened PR to **canonical/pycloudlib**
-* 📄 Added `CONTRIBUTING.md` (documentation improvement)
-* 🟢 Actively contributing to beginner-friendly issues
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AG141293&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AG141293&theme=radical" height="160"/>
-</p>
-
----
-
-## ⚡ Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AG141293\&theme=react-dark)
+- 🚀 Opened PR to **canonical/pycloudlib**
+- 📄 Added `CONTRIBUTING.md` (documentation improvement)
+- 🟢 Actively contributing to beginner-friendly issues
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+### 🤖 GenAI / LLM Stack
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E24AA?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF4088?style=for-the-badge&logo=semanticweb&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
----
+### 🧠 ML / NLP
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🤖 GenAI / LLM
-
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-8E24AA?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF4088?style=for-the-badge)
-
----
-
-### ☁️ Tools & MLOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+### ☁️ MLOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -92,40 +256,50 @@ I build **production-ready AI systems**, not just models.
 
 ### 🧠 Machine Learning Intern — Tech Mahindra Makers Lab
 
-* Built multilingual NLP pipelines (10,000+ dialect variations)
-* Developed ASR systems with WER evaluation
-* Designed automated annotation pipelines using NVIDIA NIM
-* Built real-time translation systems
+- 🌐 Built multilingual NLP pipelines handling **10,000+ dialect variations**
+- 🎙️ Developed ASR (Automatic Speech Recognition) systems with WER evaluation
+- 🏷️ Designed automated annotation pipelines using **NVIDIA NIM**
+- 🔄 Built real-time translation systems for low-resource Indian languages
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-* 🔹 LLM Q&A Generation System
-* 🔹 Intelligent RAG Pipeline
-* 🔹 Vision-Language Model (OCR + LLM)
-* 🔹 Forecasting & ML Projects
-
----
-
-## 🤝 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/ank1412
-💻 GitHub: https://github.com/AG141293
-🤗 HuggingFace: https://huggingface.co/AnkGhosh
-📧 Email: [ghoshankita1412@gmail.com](mailto:ghoshankita1412@gmail.com)
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **LLM Q&A Generation System** | Auto-generates high-quality QA pairs from documents | LangChain, Gemini, RAG |
+| **Intelligent RAG Pipeline** | Multi-source document retrieval with semantic reranking | FAISS, LangGraph, HuggingFace |
+| **Vision-Language Model** | OCR + LLM fusion for document intelligence | VLM, Tesseract, GPT-4V |
+| **Forecasting & ML Projects** | Time-series forecasting with ensemble methods | scikit-learn, MLflow, Streamlit |
 
 ---
 
 ## 🎯 2026 Goals
 
-* Contribute to top open-source AI projects
-* Build scalable GenAI systems
-* Strengthen MLOps & system design
-* Land a high-impact AI/ML role 🚀
+- [ ] Contribute to top open-source AI projects (LangChain, HuggingFace, etc.)
+- [ ] Build and deploy scalable GenAI systems end-to-end
+- [ ] Strengthen MLOps, system design & distributed training
+- [ ] Land a high-impact AI/ML engineering role 🚀
 
 ---
 
-⭐ *Building AI systems that actually work in the real world*
+<!-- SNAKE ANIMATION — auto-generates from contribution graph, updates daily via GitHub Action -->
+<div align="center">
+
+### 🐍 My Contributions, Eaten Alive
+
+![Snake animation](https://github.com/AG141293/AG141293/blob/output/github-contribution-grid-snake-dark.svg)
+
+> **To enable the snake:** Go to your repo `AG141293/AG141293` → Actions → enable the `Generate Snake` workflow. See setup instructions below ↓
+
+</div>
+
+---
+
+<div align="center">
+
+*⭐ Building AI systems that actually work in the real world*
+
+</div>
 
 
