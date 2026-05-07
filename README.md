@@ -3,13 +3,11 @@
 <!-- ANIMATED SVG BANNER -->
 <svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Deep space background gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d0221;stop-opacity:1" />
       <stop offset="40%" style="stop-color:#1a0533;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0a0a2e;stop-opacity:1" />
     </linearGradient>
-    <!-- Purple aurora glow -->
     <radialGradient id="aura1" cx="25%" cy="50%" r="45%">
       <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.35" />
       <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0" />
@@ -22,7 +20,6 @@
       <stop offset="0%" style="stop-color:#f472b6;stop-opacity:0.2" />
       <stop offset="100%" style="stop-color:#f472b6;stop-opacity:0" />
     </radialGradient>
-    <!-- Text glow filter -->
     <filter id="glow">
       <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
@@ -31,7 +28,6 @@
       <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <!-- Neural net line gradient -->
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0" />
       <stop offset="50%" style="stop-color:#a78bfa;stop-opacity:0.8" />
@@ -43,14 +39,10 @@
       <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0" />
     </linearGradient>
   </defs>
-
-  <!-- Background -->
   <rect width="900" height="200" fill="url(#bgGrad)" rx="16"/>
   <rect width="900" height="200" fill="url(#aura1)" rx="16"/>
   <rect width="900" height="200" fill="url(#aura2)" rx="16"/>
   <rect width="900" height="200" fill="url(#aura3)" rx="16"/>
-
-  <!-- Animated star particles -->
   <g opacity="0.7">
     <circle cx="50" cy="30" r="1.2" fill="#a78bfa"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
     <circle cx="120" cy="70" r="0.8" fill="#fff"><animate attributeName="opacity" values="1;0.1;1" dur="2.4s" repeatCount="indefinite"/></circle>
@@ -68,8 +60,6 @@
     <circle cx="170" cy="185" r="0.7" fill="#a78bfa"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
     <circle cx="620" cy="175" r="1.3" fill="#06b6d4"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
   </g>
-
-  <!-- Animated neural net lines (sweeping) -->
   <line x1="0" y1="100" x2="900" y2="100" stroke="url(#lineGrad)" stroke-width="0.5">
     <animate attributeName="y1" values="60;140;60" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="y2" values="140;60;140" dur="6s" repeatCount="indefinite"/>
@@ -81,8 +71,6 @@
   <line x1="0" y1="150" x2="900" y2="50" stroke="url(#lineGrad)" stroke-width="0.4">
     <animate attributeName="opacity" values="0.6;0;0.6" dur="5s" repeatCount="indefinite"/>
   </line>
-
-  <!-- Orbiting brain/AI node decoration -->
   <g transform="translate(820, 100)">
     <circle cx="0" cy="0" r="28" fill="none" stroke="#7c3aed" stroke-width="0.8" opacity="0.5">
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
@@ -97,8 +85,6 @@
       <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/>
     </circle>
   </g>
-
-  <!-- Small orbit left -->
   <g transform="translate(80, 100)">
     <circle cx="0" cy="0" r="22" fill="none" stroke="#f472b6" stroke-width="0.6" opacity="0.4">
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
@@ -107,32 +93,22 @@
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
     </circle>
   </g>
-
-  <!-- Main title: Ankita Ghosh — single element, glow via filter only -->
   <text x="450" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="900" letter-spacing="4" fill="#c4b5fd" filter="url(#glowStrong)">
     ANKITA GHOSH
     <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
   </text>
-
-  <!-- Subtitle -->
   <text x="450" y="105" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" letter-spacing="6" fill="#06b6d4" filter="url(#glow)">
     GenAI · RAG · LLMs · NLP · VLM
     <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
   </text>
-
-  <!-- Animated typing bar -->
   <rect x="220" y="118" width="460" height="1.5" fill="url(#lineGrad)" rx="1">
     <animate attributeName="width" values="0;460;460;0" dur="5s" repeatCount="indefinite"/>
     <animate attributeName="x" values="450;220;220;450" dur="5s" repeatCount="indefinite"/>
   </rect>
-
-  <!-- Bottom tagline -->
   <text x="450" y="150" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" letter-spacing="3" fill="#a78bfa" opacity="0.8">
     🚀 Building Production-Ready AI Systems
     <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
   </text>
-
-  <!-- Floating data particles -->
   <g font-family="'Courier New', monospace" font-size="9" fill="#7c3aed" opacity="0.4">
     <text x="140" y="40">01</text>
     <text x="750" y="155">RAG</text>
@@ -140,8 +116,6 @@
     <text x="680" y="38">NLP</text>
     <text x="350" y="185">0x1A</text>
   </g>
-
-  <!-- Border glow frame -->
   <rect width="900" height="200" rx="16" fill="none" stroke="url(#lineGrad)" stroke-width="1.5" opacity="0.5"/>
 </svg>
 
@@ -158,7 +132,6 @@
   <a href="mailto:ghoshankita1412@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<!-- PROFILE VIEWS COUNTER — auto-increments every visit -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AG141293&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </p>
@@ -181,9 +154,7 @@
 
 ---
 
-## 🏆 GitHub Trophies — Live & Auto-Updating
-
-> *These update automatically as you earn new achievements — no manual refresh needed!*
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AG141293&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
@@ -191,24 +162,20 @@
 
 ---
 
-## 📊 GitHub Stats — Real-Time
-
-> *All cards below pull live data from GitHub's API and auto-refresh with every push, PR, issue, and star.*
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=06b6d4&text_color=e2e8f0&ring_color=7c3aed&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AG141293&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=e2e8f0&langs_count=8&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AG141293&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </p>
 
-<!-- STREAK STATS — updates daily -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AG141293&theme=radical&hide_border=true&background=0d0221&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=06b6d4&dates=94a3b8" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=AG141293&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<!-- CONTRIBUTION GRAPH — updates on every commit -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AG141293&theme=react-dark&bg_color=0d0221&color=a78bfa&line=7c3aed&point=f472b6&hide_border=true&area=true&area_color=7c3aed" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AG141293&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -219,10 +186,11 @@
 |---|------|------|-------------|--------|
 | 1 | [canonical/pycloudlib](https://github.com/canonical/pycloudlib/pull/500) | 🔀 PR | `docs:` Update contributing guidelines | 🟡 Open |
 | 2 | [topoteretes/cognee](https://github.com/topoteretes/cognee/pull/2739) | 🔀 PR | Add beginner-friendly example to documentation | 🟡 Open |
-| 3 | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos/issues/1707) | 🐛 Issue | `[Enhancement]` Add Multilingual & Indian Language NLP Resources | 🟢 Raised |
-| 4 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/issues/209) | 🐛 Issue | `[Bug]` Multiple names misplaced & duplicate section under letter J | 🟢 Raised |
-| 5 | [supabase/supabase-py](https://github.com/supabase/supabase-py/issues/1481) | 💡 Issue | Suggestion to improve documentation clarity for beginners | 🟢 Raised |
-| 6 | [topoteretes/cognee](https://github.com/topoteretes/cognee/issues/2738) | 💡 Issue | `[Docs]` Improve documentation with beginner-friendly knowledge graph example | 🟢 Raised |
+| 3 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/pull/210) | 🔀 PR | `fix:` Resolve misplaced names & duplicate J section — **Merged ✅** | 🟣 Merged |
+| 4 | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos/issues/1707) | 🐛 Issue | `[Enhancement]` Add Multilingual & Indian Language NLP Resources | 🟢 Raised |
+| 5 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/issues/209) | 🐛 Issue | `[Bug]` Multiple names misplaced & duplicate section under letter J | 🟢 Raised |
+| 6 | [supabase/supabase-py](https://github.com/supabase/supabase-py/issues/1481) | 💡 Issue | Suggestion to improve documentation clarity for beginners | 🟢 Raised |
+| 7 | [topoteretes/cognee](https://github.com/topoteretes/cognee/issues/2738) | 💡 Issue | `[Docs]` Improve documentation with beginner-friendly knowledge graph example | 🟢 Raised |
 
 ---
 
@@ -295,7 +263,6 @@
 
 ---
 
-<!-- SNAKE ANIMATION — auto-generates from contribution graph, updates daily via GitHub Action -->
 <div align="center">
 
 ### 🐍 My Contributions, Eaten Alive
@@ -305,8 +272,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AG141293/AG141293/output/github-contribution-grid-snake.svg"/>
   <img alt="Snake animation" src="https://raw.githubusercontent.com/AG141293/AG141293/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
-
 
 </div>
 
