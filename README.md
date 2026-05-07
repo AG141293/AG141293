@@ -301,11 +301,7 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/AG141293/AG141293/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-> ⚠️ **One-time setup required** — the snake appears after your first GitHub Action run:
-> 1. In repo `AG141293/AG141293` → **Settings → Actions → General** → set to **"Read and write permissions"** → Save
-> 2. Place the `snake-workflow.yml` file at `.github/workflows/snake.yml` in your repo
-> 3. Go to **Actions tab** → click **"Generate Snake"** → **Run workflow**
-> 4. Snake will then auto-regenerate every 12 hours! 🎉
+
 
 </div>
 
