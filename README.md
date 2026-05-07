@@ -108,11 +108,10 @@
     </circle>
   </g>
 
-  <!-- Main title: Ankita Ghosh -->
-  <text x="450" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="900" letter-spacing="4" fill="none" stroke="#a78bfa" stroke-width="0.8" filter="url(#glow)" opacity="0.6">ANKITA GHOSH</text>
-  <text x="450" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="900" letter-spacing="4" fill="url(#lineGrad)" filter="url(#glowStrong)">
+  <!-- Main title: Ankita Ghosh — single element, glow via filter only -->
+  <text x="450" y="72" text-anchor="middle" font-family="'Courier New', monospace" font-size="36" font-weight="900" letter-spacing="4" fill="#c4b5fd" filter="url(#glowStrong)">
     ANKITA GHOSH
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
   </text>
 
   <!-- Subtitle -->
@@ -226,8 +225,16 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 📊 Data & Visualization Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🤖 GenAI / LLM Stack
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
