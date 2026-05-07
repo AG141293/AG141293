@@ -242,12 +242,14 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **LLM Q&A Generation System** | Auto-generates high-quality QA pairs from documents | LangChain, Gemini, RAG |
-| **Intelligent RAG Pipeline** | Multi-source document retrieval with semantic reranking | FAISS, LangGraph, HuggingFace |
-| **Vision-Language Model** | OCR + LLM fusion for document intelligence | VLM, Tesseract, GPT-4V |
-| **Forecasting & ML Projects** | Time-series forecasting with ensemble methods | scikit-learn, MLflow, Streamlit |
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| **Netflix Content Dashboard** | Interactive viz of 8,807 Netflix titles — Movies vs Shows, Country Map, Genres & Ratings | Tableau | [![View](https://img.shields.io/badge/View_Dashboard-E50914?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ankita.ghosh8096/viz/Netflix_Dashboard_17781550111210/NETFLIXCONTENTDASHBOARD) |
+| **LLM Q&A Generation System** | Auto-generates high-quality QA pairs from documents | LangChain, Gemini, RAG | |
+| **Intelligent RAG Pipeline** | Multi-source document retrieval with semantic reranking | FAISS, LangGraph, HuggingFace | |
+| **Vision-Language Model** | OCR + LLM fusion for document intelligence | VLM, Tesseract, GPT-4V | |
+| **Forecasting & ML Projects** | Time-series forecasting with ensemble methods | scikit-learn, MLflow, Streamlit | |
+
 
 ---
 
