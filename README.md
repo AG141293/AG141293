@@ -215,9 +215,14 @@
 
 ## 🌍 Open Source Contributions
 
-- 🚀 Opened PR to **canonical/pycloudlib**
-- 📄 Added `CONTRIBUTING.md` (documentation improvement)
-- 🟢 Actively contributing to beginner-friendly issues
+| # | Repo | Type | Description | Status |
+|---|------|------|-------------|--------|
+| 1 | [canonical/pycloudlib](https://github.com/canonical/pycloudlib/pull/500) | 🔀 PR | `docs:` Update contributing guidelines | 🟡 Open |
+| 2 | [topoteretes/cognee](https://github.com/topoteretes/cognee/pull/2739) | 🔀 PR | Add beginner-friendly example to documentation | 🟡 Open |
+| 3 | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos/issues/1707) | 🐛 Issue | `[Enhancement]` Add Multilingual & Indian Language NLP Resources | 🟢 Raised |
+| 4 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/issues/209) | 🐛 Issue | `[Bug]` Multiple names misplaced & duplicate section under letter J | 🟢 Raised |
+| 5 | [supabase/supabase-py](https://github.com/supabase/supabase-py/issues/1481) | 💡 Issue | Suggestion to improve documentation clarity for beginners | 🟢 Raised |
+| 6 | [topoteretes/cognee](https://github.com/topoteretes/cognee/issues/2738) | 💡 Issue | `[Docs]` Improve documentation with beginner-friendly knowledge graph example | 🟢 Raised |
 
 ---
 
@@ -312,3 +317,4 @@
 *⭐ Building AI systems that actually work in the real world*
 
 </div>
+
