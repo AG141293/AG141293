@@ -165,9 +165,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs_Merged-1-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Issues_Raised-5-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Contributions-7-f472b6?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repositories-59-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PRs_Open%2FMerged-3-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Issues_Raised-5-f472b6?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contributions-9-a78bfa?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open_Source-Active-00c853?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
 
@@ -181,13 +182,14 @@
 
 | # | Repo | Type | Description | Status |
 |---|------|------|-------------|--------|
-| 1 | [canonical/pycloudlib](https://github.com/canonical/pycloudlib/pull/500) | 🔀 PR | `docs:` Update contributing guidelines | 🟡 Open |
-| 2 | [topoteretes/cognee](https://github.com/topoteretes/cognee/pull/2739) | 🔀 PR | Add beginner-friendly example to documentation | 🟡 Open |
-| 3 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/pull/210) | 🔀 PR | `fix:` Resolve misplaced names & duplicate J section — **Merged ✅** | 🟣 Merged |
-| 4 | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos/issues/1707) | 🐛 Issue | `[Enhancement]` Add Multilingual & Indian Language NLP Resources | 🟢 Raised |
-| 5 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/issues/209) | 🐛 Issue | `[Bug]` Multiple names misplaced & duplicate section under letter J | 🟢 Raised |
-| 6 | [supabase/supabase-py](https://github.com/supabase/supabase-py/issues/1481) | 💡 Issue | Suggestion to improve documentation clarity for beginners | 🟢 Raised |
-| 7 | [topoteretes/cognee](https://github.com/topoteretes/cognee/issues/2738) | 💡 Issue | `[Docs]` Improve documentation with beginner-friendly knowledge graph example | 🟢 Raised |
+| 1 | [vinta/awesome-python](https://github.com/vinta/awesome-python/pull/3119) | 🔀 PR | `fix:` Remove duplicate `ruff` entry from Code Linters section | 🟡 Open |
+| 2 | [canonical/pycloudlib](https://github.com/canonical/pycloudlib/pull/500) | 🔀 PR | `docs:` Update contributing guidelines | 🟡 Open |
+| 3 | [topoteretes/cognee](https://github.com/topoteretes/cognee/pull/2739) | 🔀 PR | Add beginner-friendly example to documentation | 🟡 Open |
+| 4 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/pull/210) | 🔀 PR | `fix:` Resolve misplaced names & duplicate J section — **Merged ✅** | 🟣 Merged |
+| 5 | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos/issues/1707) | 🐛 Issue | `[Enhancement]` Add Multilingual & Indian Language NLP Resources | 🟢 Raised |
+| 6 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/issues/209) | 🐛 Issue | `[Bug]` Multiple names misplaced & duplicate section under letter J | 🟢 Raised |
+| 7 | [supabase/supabase-py](https://github.com/supabase/supabase-py/issues/1481) | 💡 Issue | Suggestion to improve documentation clarity for beginners | 🟢 Raised |
+| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee/issues/2738) | 💡 Issue | `[Docs]` Improve documentation with beginner-friendly knowledge graph example | 🟢 Raised |
 
 ---
 
@@ -249,7 +251,6 @@
 | **Intelligent RAG Pipeline** | Multi-source document retrieval with semantic reranking | FAISS, LangGraph, HuggingFace | |
 | **Vision-Language Model** | OCR + LLM fusion for document intelligence | VLM, Tesseract, GPT-4V | |
 | **Forecasting & ML Projects** | Time-series forecasting with ensemble methods | scikit-learn, MLflow, Streamlit | |
-
 
 ---
 
