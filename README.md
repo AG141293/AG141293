@@ -167,8 +167,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Repositories-59-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/PRs_Open%2FMerged-3-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Issues_Raised-5-f472b6?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Contributions-9-a78bfa?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Issues_Raised-6-f472b6?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contributions-10-a78bfa?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open_Source-Active-00c853?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
 
@@ -190,6 +190,7 @@
 | 6 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/issues/209) | 🐛 Issue | `[Bug]` Multiple names misplaced & duplicate section under letter J | 🟢 Raised |
 | 7 | [supabase/supabase-py](https://github.com/supabase/supabase-py/issues/1481) | 💡 Issue | Suggestion to improve documentation clarity for beginners | 🟢 Raised |
 | 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee/issues/2738) | 💡 Issue | `[Docs]` Improve documentation with beginner-friendly knowledge graph example | 🟢 Raised |
+| 9 | [public-apis/public-apis](https://github.com/public-apis/public-apis/issues) | 🐛 Issue | `[Bug]` Multiple defunct/dead APIs still listed in README (FTX, AnonFiles, MetaWeather & more) | 🟢 Raised |
 
 ---
 
@@ -282,4 +283,3 @@
 *⭐ Building AI systems that actually work in the real world*
 
 </div>
-
