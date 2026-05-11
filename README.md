@@ -234,12 +234,24 @@
 
 ## 💼 Experience
 
+### 🤖 Artificial Intelligence Intern — Codec Technologies *(Current)*
+#### Apr 2026 – Jun 2026 | Hybrid / India | National Internship Portal
+
+- 🌍 Selected through the **National Internship Portal (NCS)** at Codec Technologies — a global IT & consultancy platform operating in **27+ countries**
+- 🤖 Working on applied AI/ML project assignments under Codec Technologies' **Google for Education** partner platform framework
+- 🧠 Applying GenAI and deep learning skills to real-world business challenges
+- 🚀 Building domain expertise in AI systems, production deployment, and cross-cultural AI problem solving
+
+---
+
 ### 🧠 Machine Learning Intern — Tech Mahindra Makers Lab
+#### Aug 2025 – Feb 2026 | Project: INDUS (India's Own LLM) | Employee ID: C129669
 
 - 🌐 Built multilingual NLP pipelines handling **10,000+ dialect variations**
 - 🎙️ Developed ASR (Automatic Speech Recognition) systems with WER evaluation
 - 🏷️ Designed automated annotation pipelines using **NVIDIA NIM**
 - 🔄 Built real-time translation systems for low-resource Indian languages
+- 📦 Built LLM-based Synthetic Data Generation pipelines achieving **10× dataset expansion**
 
 ---
 
