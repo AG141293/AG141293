@@ -143,8 +143,9 @@
 ## 🚀 About Me
 
 🎓 **M.Sc. in Artificial Intelligence & Machine Learning** (CGPA: 9.3)
-💼 **Ex-ML Intern @ Tech Mahindra Makers Lab**
+💼 **Ex-ML Intern @ Tech Mahindra Makers Lab** | **AI Intern @ Codec Technologies** *(Current)*
 🤖 **GenAI & NLP Engineer** — I build production-ready AI systems, not just models.
+🌟 **Contributor to [vinta/awesome-python](https://github.com/vinta/awesome-python)** — the **#10 most starred repo on GitHub** ✅
 
 💡 **Focus Areas:**
 - RAG Systems & LLM Pipelines
@@ -166,9 +167,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Repositories-60-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PRs_Open%2FMerged-4-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PRs_Merged-2-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PRs_Open-2-f472b6?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Issues_Raised-6-f472b6?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Contributions-11-a78bfa?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contributions-12-a78bfa?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open_Source-Active-00c853?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
 
@@ -182,10 +184,10 @@
 
 | # | Repo | Type | Description | Status |
 |---|------|------|-------------|--------|
-| 1 | [vinta/awesome-python](https://github.com/vinta/awesome-python/pull/3119) | 🔀 PR | `fix:` Remove duplicate `ruff` entry from Code Linters section — **Changes Requested, Under Review** | 🟡 Open |
-| 2 | [canonical/pycloudlib](https://github.com/canonical/pycloudlib/pull/500) | 🔀 PR | `docs:` Update contributing guidelines | 🟡 Open |
-| 3 | [topoteretes/cognee](https://github.com/topoteretes/cognee/pull/2739) | 🔀 PR | Add beginner-friendly example to documentation | 🟡 Open |
-| 4 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/pull/210) | 🔀 PR | `fix:` Resolve misplaced names & duplicate J section — **Merged ✅** | 🟣 Merged |
+| 1 | [vinta/awesome-python](https://github.com/vinta/awesome-python/pull/3119) | 🔀 PR | `fix:` Remove duplicate `ruff` entry from Code Linters section — **Merged ✅ into #10 most starred GitHub repo!** | 🟣 Merged |
+| 2 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/pull/210) | 🔀 PR | `fix:` Resolve misplaced names & duplicate J section — **Merged ✅** | 🟣 Merged |
+| 3 | [canonical/pycloudlib](https://github.com/canonical/pycloudlib/pull/500) | 🔀 PR | `docs:` Update contributing guidelines | 🟡 Open |
+| 4 | [topoteretes/cognee](https://github.com/topoteretes/cognee/pull/2739) | 🔀 PR | Add beginner-friendly example to documentation | 🟡 Open |
 | 5 | [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos/issues/1707) | 🐛 Issue | `[Enhancement]` Add Multilingual & Indian Language NLP Resources | 🟢 Raised |
 | 6 | [recodehive/Opensource-practice](https://github.com/recodehive/Opensource-practice/issues/209) | 🐛 Issue | `[Bug]` Multiple names misplaced & duplicate section under letter J | 🟢 Raised |
 | 7 | [supabase/supabase-py](https://github.com/supabase/supabase-py/issues/1481) | 💡 Issue | Suggestion to improve documentation clarity for beginners | 🟢 Raised |
