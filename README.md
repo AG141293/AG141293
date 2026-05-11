@@ -169,8 +169,8 @@
   <img src="https://img.shields.io/badge/Repositories-60-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/PRs_Merged-2-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/PRs_Open-2-f472b6?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Issues_Raised-6-f472b6?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Contributions-12-a78bfa?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Issues_Raised-10-f472b6?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contributions-16-a78bfa?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open_Source-Active-00c853?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
 
@@ -193,6 +193,11 @@
 | 7 | [supabase/supabase-py](https://github.com/supabase/supabase-py/issues/1481) | 💡 Issue | Suggestion to improve documentation clarity for beginners | 🟢 Raised |
 | 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee/issues/2738) | 💡 Issue | `[Docs]` Improve documentation with beginner-friendly knowledge graph example | 🟢 Raised |
 | 9 | [public-apis/public-apis](https://github.com/public-apis/public-apis/issues) | 🐛 Issue | `[Bug]` Multiple defunct/dead APIs still listed in README (FTX, AnonFiles, MetaWeather & more) | 🟢 Raised |
+| 10 | [Mohitha1406/text-emotion-classifier](https://github.com/Mohitha1406/text-emotion-classifier/issues) | 🐛 Issue | `[Docs]` Add dataset source and download instructions for emotion classification model | 🟢 Raised |
+| 11 | [shrutiii16/Traffic-Patterns](https://github.com/shrutiii16/Traffic-Patterns/issues) | 🐛 Issue | `[Docs]` Add README with project overview, dataset description and usage instructions | 🟢 Raised |
+| 12 | [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot/issues) | 🐛 Issue | `[Docs]` Fix typo: "feautures" should be "features" in README Tips section | 🟢 Raised |
+| 13 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python/issues) | 💡 Issue | `[Feature]` Add Naive Bayes Text Classification Algorithm to machine_learning/ | 🟢 Raised |
+| 14 | [datasciencemasters/go](https://github.com/datasciencemasters/go/issues) | 🐛 Issue | `[Docs]` Update outdated book prices and mark freely available resources | 🟢 Raised |
 
 ---
 
