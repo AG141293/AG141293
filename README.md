@@ -129,6 +129,7 @@
   <a href="https://www.linkedin.com/in/ank1412"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AG141293"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://huggingface.co/AnkGhosh"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/profile/ghoshankita1412"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
   <a href="mailto:ghoshankita1412@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -146,6 +147,7 @@
 💼 **Ex-ML Intern @ Tech Mahindra Makers Lab** | **AI Intern @ Codec Technologies** *(Current)*
 🤖 **GenAI & NLP Engineer** — I build production-ready AI systems, not just models.
 🌟 **Contributor to [vinta/awesome-python](https://github.com/vinta/awesome-python)** — the **#10 most starred repo on GitHub** ✅
+🏅 **HackerRank** — Active problem solver in Python, SQL & Algorithms
 
 💡 **Focus Areas:**
 - RAG Systems & LLM Pipelines
@@ -240,6 +242,18 @@
 
 ---
 
+## 🏅 Coding Profiles
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/ghoshankita1412">
+    <img src="https://img.shields.io/badge/HackerRank-ghoshankita1412-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
+</p>
+
+> 🟢 Actively solving problems in **Python · SQL · Problem Solving · Algorithms**
+
+---
+
 ## 💼 Experience
 
 ### 🤖 Artificial Intelligence Intern — Codec Technologies *(Current)*
@@ -280,6 +294,7 @@
 - [ ] Contribute to top open-source AI projects (LangChain, HuggingFace, etc.)
 - [ ] Build and deploy scalable GenAI systems end-to-end
 - [ ] Strengthen MLOps, system design & distributed training
+- [ ] Earn HackerRank Gold badges in Python, SQL & Problem Solving 🏅
 - [ ] Land a high-impact AI/ML engineering role 🚀
 
 ---
