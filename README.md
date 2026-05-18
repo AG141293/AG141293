@@ -267,7 +267,7 @@
 ---
 
 ### 📊 Data Analyst & Python Developer Intern — Huban Technologies LLP
-#### Jan 2026 – Aug 2026 | Woolf University (EU) Partner | India
+#### Jan 2025 – Aug 2025 
 
 - 🎓 Completed internship as a **Data Analyst and Python Developer** at Huban Technologies LLP, a **Woolf University (EU)** partner organization
 - 🐍 Worked on data analysis and Python development assignments, delivering all responsibilities with sincerity and professionalism
