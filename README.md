@@ -270,10 +270,12 @@
 ### 📊 Data Analyst & Python Developer Intern — Huban Technologies LLP
 #### Jan 2025 – Aug 2025 
 
-- 🎓 Completed internship as a **Data Analyst and Python Developer** at Huban Technologies LLP, a **Woolf University (EU)** partner organization
-- 🐍 Worked on data analysis and Python development assignments, delivering all responsibilities with sincerity and professionalism
-- 🌟 Recognized for displaying a **very positive attitude** and enthusiasm throughout the project tenure
-- 🏅 Awarded official **Certificate of Internship** (dated 16th May 2026) by Director Gourдас Banerjee
+- 🎓 Completed internship as a **Data Analyst and Python Developer** at Huban Technologies LLP
+▸	Developed an end-to-end OCR Invoice Data Extraction & Automation system using Python, EasyOCR, and machine learning techniques to digitize and process invoice documents automatically.
+▸	Built an intelligent pipeline to extract structured fields (invoice number, date, vendor, line items, totals) from scanned and digital invoices using OCR and NLP-based post-processing.
+▸	Automated data validation and export workflows, reducing manual data entry effort significantly and improving invoice processing accuracy through ML-based field classification.
+▸	Integrated OpenCV for image preprocessing (deskewing, noise removal, binarization) to improve OCR accuracy on low-quality scanned invoice documents.
+
 
 ---
 
