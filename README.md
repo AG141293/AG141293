@@ -144,7 +144,8 @@
 ## 🚀 About Me
 
 🎓 **M.Sc. in Artificial Intelligence & Machine Learning** (CGPA: 9.3)
-💼 **Ex-ML Intern @ Tech Mahindra Makers Lab** | **Ex-Intern @ Huban Technologies** | **AI Intern @ Codec Technologies** *(Current)*
+💼 **Ex-ML Intern @ Tech Mahindra Makers Lab** | **AI Intern @ Codec Technologies** *(Current)*
+### 📊 Ex-Data Analyst & Python Developer Intern — Huban Technologies LLP
 🤖 **GenAI & NLP Engineer** — I build production-ready AI systems, not just models.
 🌟 **Contributor to [vinta/awesome-python](https://github.com/vinta/awesome-python)** — the **#10 most starred repo on GitHub** ✅
 🏅 **HackerRank** — Active problem solver in Python, SQL & Algorithms
